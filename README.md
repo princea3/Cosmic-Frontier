@@ -65,29 +65,27 @@ The Services section contains **8 astronomy-focused services**, including:
 
 ### 🏠 Home
 
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### ℹ️ About Us
 
-![About Us](screenshots/about.png)
+![About Us](about.png)
 
 ### 🛠️ Services
 
-![Services](screenshots/services.png)
+![Services](services.png)
 
 ### 📰 Blog — Page 1
 
-![Blog Page 1](screenshots/blog-1.png)
+![Blog Page 1](blog-1.png)
 
 ### 📰 Blog — Page 2
 
-![Blog Page 2](screenshots/blog-2.png)
+![Blog Page 2](blog-2.png)
 
 ### 📞 Contact Us
 
-![Contact](screenshots/contact.png)
-
----
+![Contact Us](contact.png)
 
 ## 🎯 Project Purpose
 

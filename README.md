@@ -87,6 +87,10 @@ The Services section contains **8 astronomy-focused services**, including:
 
 ![Contact Us](contact.png)
 
+### 🤖 Chatbot
+
+![Chatbot](chatbot.png)
+
 ## 🎯 Project Purpose
 
 Cosmic Frontier was developed as a web development project to demonstrate the creation of a complete multi-page website using WordPress and Elementor.

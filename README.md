@@ -95,17 +95,6 @@ The project focuses on presenting astronomy-related information through a visual
 
 ---
 
-## 🚀 Future Improvements
-
-- 🌠 Interactive astronomy tools
-- 🔭 Live astronomical data
-- 🛰️ Space and satellite tracking
-- 📰 Dynamic astronomy news integration
-- 🌌 Interactive solar system explorer
-- 📱 Further mobile optimization
-
----
-
 ## 👨‍💻 Author
 
 **Prince Acharya**
